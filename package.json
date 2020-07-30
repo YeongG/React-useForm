@@ -1,6 +1,6 @@
 {
   "name": "hooks-react-useforms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "make easy to react form",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,7 @@
   },
   "author": "YeongG",
   "license": "ISC",
-  "homepage": "https://www.npmjs.com/package/@yeong-g/useform",
+  "homepage": "https://www.npmjs.com/package/hooks-react-useforms",
   "devDependencies": {
     "typescript": "^3.9.7"
   }
