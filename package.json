@@ -1,0 +1,22 @@
+{
+  "name": "use-easy-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YeongG/React-useForm",
+  "author": "YeongG <yeonggil223@gmail.com>",
+  "license": "LIC",
+  "keywords": [
+    "hooks",
+    "react",
+    "react-hooks",
+    "useform",
+    "useforms"
+  ],
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "ts-node": "^8.10.2",
+    "tsc": "^1.20150623.0"
+  }
+}
